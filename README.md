@@ -3,9 +3,11 @@
 <h1 align="center">Hi there, I'm Kim 👋</h1>
 <h3 align="center">3rd year CS student at CSULB and Break Through Tech AI Fellow at UCLA</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
+- 📚 I’m currently taking courses on **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
+  
+- 💡 I was previously an intern at Elimu Informatics and an AI Studio intern at AskMargot.
 
-- 👨‍💻 All of my projects are available on my website [https://kimnguyen-83205654292d.herokuapp.com](https://kimnguyen-83205654292d.herokuapp.com)
+- 👩‍💻 All of my information is available on my website [https://kimnguyen-83205654292d.herokuapp.com](https://kimnguyen-83205654292d.herokuapp.com)
 
 - 💬 Ask me about **my experience at BTTAI**
 
