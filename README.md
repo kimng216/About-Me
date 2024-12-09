@@ -9,6 +9,8 @@
 
 - 👩‍💻 All of my information is available on my website [https://kimnguyen-83205654292d.herokuapp.com](https://kimnguyen-83205654292d.herokuapp.com)
 
+- ✨ Check out my recent AI Studio project -> https://github.com/kimng216/Nurse-Match-Chatbot
+
 - 💬 Ask me about **my experience at BTTAI**
 
 - 📫 How to reach me **kim.nguyen03@student.csulb.edu**
