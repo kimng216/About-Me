@@ -1,6 +1,6 @@
 # About-Me
 
-<h1 align="center">Hi 👋, I'm Kim</h1>
+<h1 align="center">Hi there, I'm Kim 👋</h1>
 <h3 align="center">3rd year CS student at CSULB and Break Through Tech AI Fellow at UCLA</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
