@@ -5,6 +5,8 @@
 
 - 📚 I’m currently taking courses on **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
   
+- 🖋️ I am currently serving as a **Trustee At-Large** for the **UREC Board of Trustees** under **CSULB ASI**.
+  
 - 💡 I was previously an **intern at Elimu Informatics** and an **AI Studio intern at AskMargot**.
 
 - 👩‍💻 All of my information is available on my website [https://kimnguyen-83205654292d.herokuapp.com](https://kimnguyen-83205654292d.herokuapp.com)
