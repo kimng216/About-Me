@@ -4,6 +4,8 @@
 <h3 align="center">3rd year CS student at CSULB and Break Through Tech AI Fellow at UCLA</h3>
 
 - 📚 I’m currently taking courses on **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
+
+- 👩‍💻 I’m currently working on a **Kaggle Competition** under a group formed by BTTAI.
   
 - 🖋️ I am currently serving as a **Trustee At-Large** for the **UREC Board of Trustees** under **CSULB ASI**.
   
