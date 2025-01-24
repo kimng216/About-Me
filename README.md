@@ -5,6 +5,8 @@
 
 - 📚 I’m currently taking courses on **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
 
+- 📄 I’m on track to completing a certificate for **Public Health Informatics and Technology** (CCPHIT).
+
 - ⌨️ I’m currently working on a **Kaggle Competition** under a group formed by BTTAI.
   
 - 🖋️ I am currently serving as a **Trustee At-Large** for the **UREC Board of Trustees** under **CSULB ASI**.
