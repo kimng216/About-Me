@@ -1,9 +1,9 @@
 # About-Me
 
 <h1 align="center">Hi there, I'm Kim 👋</h1>
-<h3 align="center">3rd year CS student at CSULB and Break Through Tech AI Fellow at UCLA</h3>
+<h3 align="center">3rd year CS student at CSULB</h3>
 
-- 📚 I’m currently taking courses on **Machine Learning, Operating Systems, Concepts of Computer Science Theory**
+- 📚 I’m currently taking courses on **Machine Learning and Operating Systems**
 
 - 📄 I’m on track to completing a certificate for **Public Health Informatics and Technology** (CCPHIT).
 
@@ -13,7 +13,7 @@
   
 - 💡 I was previously an **intern at Elimu Informatics** and an **AI Studio intern at AskMargot**.
 
-- 👩‍💻 All of my information is available on my website [https://kimnguyen-83205654292d.herokuapp.com](https://kimnguyen-83205654292d.herokuapp.com)
+- 👩‍💻 All of my information is available on my website [kimnguyencs.com)
 
 - ✨ Check out my recent AI Studio project -> https://github.com/kimng216/Nurse-Match-Chatbot
 
